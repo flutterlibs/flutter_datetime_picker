@@ -13,8 +13,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-# The following section is specific to Flutter.
+    
 flutter:
 
   # To add assets to your package, add an assets section, like this:
